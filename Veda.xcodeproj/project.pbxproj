@@ -256,6 +256,9 @@
 				DEVELOPMENT_TEAM = TZTPF27ABB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Veda needs access to the camera to see and describe your world.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Veda needs to hear your voice to respond.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Veda uses speech recognition to turn your words into text.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +291,9 @@
 				DEVELOPMENT_TEAM = TZTPF27ABB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Veda needs access to the camera to see and describe your world.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Veda needs to hear your voice to respond.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Veda uses speech recognition to turn your words into text.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
